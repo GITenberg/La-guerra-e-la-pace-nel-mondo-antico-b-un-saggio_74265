@@ -1,5 +1,8 @@
 _repo: La-guerra-e-la-pace-nel-mondo-antico-b-un-saggio_74265
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74265-h/images/cover.jpg
 creator:
   author:
     agent_name: Ciccotti, Ettore
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ettore_Ciccotti
     - https://it.wikipedia.org/wiki/Ettore_Ciccotti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74265#La-guerra-e-la-pace-nel-mondo-antico-b-un-saggio
 gutenberg_issued: '2024-08-16'
 gutenberg_type: Text
 identifiers:
